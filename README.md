@@ -1,4 +1,4 @@
-# gato
+# Gato
 
 A new Flutter project.
 
